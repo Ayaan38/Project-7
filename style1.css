@@ -1,0 +1,16 @@
+/*Element Selector*/
+h2{
+    color: darkolivegreen;
+}
+/*Class Selector*/
+.class2{
+    color: hotpink;
+}
+/*ID Selector*/
+#id2{
+    color: mediumaquamarine;
+}
+/*Group Selector*/
+h5,p{
+    color:thistle;
+}
